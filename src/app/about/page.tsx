@@ -4,7 +4,7 @@ const About = () => {
     <div className="container">
       <h1>who am i</h1>
       <p>
-        I&apos;'m Rohan Bachhav, a Master&apos;'s student in IT with a strong background in programming and software engineering. I have experience in various programming languages like C++, Python, and JavaScript, and I&apos;'m particularly interested in competitive programming and algorithm design.
+        I&apos;m Rohan Bachhav, a Master&apos;s student in IT with a strong background in programming and software engineering. I have experience in various programming languages like C++, Python, and JavaScript, and I&apos;m particularly interested in competitive programming and algorithm design.
       </p>
       <p>
         My focus areas include:
