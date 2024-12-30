@@ -26,7 +26,7 @@ export default function Layout({ children }: { children: React.ReactNode }) {
           {children}
         </main>
         <footer>
-          <p>&copy; 2024 My Portfolio</p>
+          <p>&copy; 2024 <a href="https://github.com/rohanbachhav" target="_blank">GitHub</a></p>
         </footer>
       </body>
     </html>
